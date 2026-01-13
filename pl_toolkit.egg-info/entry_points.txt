@@ -1,0 +1,4 @@
+[console_scripts]
+csv-converter = csv_converter:main
+pdf-parser = pdf_parser:main
+timesheet-review = timesheet_review:main
