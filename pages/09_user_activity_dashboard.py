@@ -137,7 +137,7 @@ if uploaded_file is not None:
             "Singapore": 32,
             "Malaysia": 34,
             "Vietnam": 22,
-            "Philippines": 18,
+            "Philippines": 19,
             "Indonesia": 20,
         }
 
